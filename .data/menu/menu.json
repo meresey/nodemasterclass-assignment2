@@ -1,0 +1,62 @@
+{
+ "001": {
+    "name": "Spicy Boerewors",
+    "description": "100% beef mince-fresh onion -Green pepper-jalapeno chilli",
+    "price": {
+      "regular": 550,
+      "medium": 800,
+      "large": 1000,
+      "mega": 1200
+    }
+  },
+  "002": {
+    "name": "Roast Veg &Feta",
+    "description": "Fresh red & green peppers-olives feta cheese-mushroom",
+    "price": {
+      "regular": 550,
+      "medium": 800,
+      "large": 1000,
+      "mega": 1200
+    }
+  },
+  "003": {
+    "name": "Veg Feast",
+    "description": "Sweetcorn-green pepper- chilli -onion",
+    "price": {
+      "regular": 550,
+      "medium": 800,
+      "large": 1000,
+      "mega": 1200
+    }
+  },
+  "004": {
+    "name": "Beef Pepperoni plus",
+    "description": "Double beef pepperoni-mushroom-Fresh Onion",
+    "price": {
+      "regular": 550,
+      "medium": 800,
+      "large": 1000,
+      "mega": 1200
+    }
+  },
+  "005": {
+    "name": "Chicken & Beef pepperoni",
+    "description": "Succulent bbq chicken-beef pepperoni mushroom-green pepper",
+    "price": {
+      "regular": 550,
+      "medium": 800,
+      "large": 1000,
+      "mega": 1200
+    }
+  },
+  "006": {
+    "name": "Chicken Macon BBQ",
+    "description": "Succulent bbq chicken-macon, sweetcorn-onion",
+    "price": {
+      "regular": 550,
+      "medium": 800,
+      "large": 1000,
+      "mega": 1200
+    }
+  }
+}
